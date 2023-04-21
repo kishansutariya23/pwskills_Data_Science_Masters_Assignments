@@ -7,6 +7,6 @@
 - [List](List.ipynb)
 - [Tuple](Tuples.ipynb)
 - [Set](Set.ipynb)
--
+- [Dictionary](Dictionaries.ipynb)
 -
 -
